@@ -1,0 +1,16 @@
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\bin\Debug\net5.0\3SupportBank.exe
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\bin\Debug\net5.0\3SupportBank.deps.json
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\bin\Debug\net5.0\3SupportBank.runtimeconfig.json
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\bin\Debug\net5.0\3SupportBank.runtimeconfig.dev.json
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\bin\Debug\net5.0\3SupportBank.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\bin\Debug\net5.0\ref\3SupportBank.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\bin\Debug\net5.0\3SupportBank.pdb
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.csproj.AssemblyReference.cache
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.AssemblyInfoInputs.cache
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.AssemblyInfo.cs
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\ref\3SupportBank.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.pdb
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\3SupportBank\3SupportBank\obj\Debug\net5.0\3SupportBank.genruntimeconfig.cache
